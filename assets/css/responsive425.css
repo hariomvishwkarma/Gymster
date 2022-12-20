@@ -1,0 +1,57 @@
+@media only screen and (max-width: 425px) {
+    h1 {
+        font-size: 2.2rem !important;
+    }
+    .main-header-navbar {
+        padding: 1rem;
+    }
+    .hamburger-toggle {
+        padding-right: 0;
+    }
+    .image-contianer {
+        width: 300px;
+    }
+    .image-contianer p {
+        font-size: 0.80rem;
+    }
+    .image-contianer h2 {
+        font-size: 1.75rem;
+        padding: 0;
+        padding-bottom: 12px;
+    }
+    a.button1 {
+        padding: 8px 13px;
+        font-size: 14px;
+    }
+    a.button2 {
+        padding: 8px 13px;
+        font-size: 14px;
+    }
+    .box-1-about-us p {
+        padding: 0;
+    }
+    .box-2-about-us ul {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .box-discount-detail {
+        width: 80%;
+    }
+    .box-discount-column {
+        width: 80%;
+    }
+    .container-number-counter {
+        display: block;
+    }
+    .box-number-counter {
+        width: 100%;
+    }
+    .box-trainer-image {
+        width: 80%;
+        padding: 20px;
+    }
+    .box-testimonial-clint h2 {
+        font-size: 2rem;
+        padding-bottom: 25px;
+    }
+}

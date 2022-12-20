@@ -1,0 +1,18 @@
+@media only screen and (max-width: 570px) {
+    .main-box-time-name-teacher {
+        width: 50%;
+    }
+    .footer {
+        display: block;
+    }
+    .container-news-latter {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .main-footer {
+        width: 100%;
+    }
+    .latter {
+        padding: 29px 15px;
+    }
+}

@@ -1,0 +1,13 @@
+    @media only screen and (max-width: 375px) {
+        .slick-next:before,
+        .slick-prev:before {
+            font-size: 2rem !important;
+        }
+        .slick-next {
+            right: 7% !important;
+        }
+        .slick-prev {
+            left: 5% !important;
+            z-index: 1;
+        }
+    }

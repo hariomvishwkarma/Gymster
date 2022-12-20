@@ -1,0 +1,23 @@
+@media only screen and (max-width: 980px) {
+    .main-container-social-media-contect {
+        display: none;
+    }
+    .hamburger-toggle {
+        display: block;
+    }
+    .hamburger-toggle i {
+        color: #ffffffb3;
+        border: 3px solid #9a9797bf;
+        padding: 8px 13px;
+        border-radius: 5px;
+        font-size: 24px;
+    }
+    .main-header-navbar {
+        justify-content: space-between;
+        padding: 15px;
+    }
+    .hamburger-toggle {
+        align-self: center;
+        padding-right: 18px;
+    }
+}

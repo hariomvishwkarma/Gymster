@@ -1,0 +1,135 @@
+    @media only screen and (max-width: 768px) {
+        .logo a h1 {
+            font-size: 2.75rem;
+        }
+        .main-header-navbar {
+            justify-content: space-between;
+            padding: 16px 0;
+        }
+        .hamburger-toggle {
+            align-self: center;
+            padding-right: 18px;
+        }
+        .hamburger-toggle i {
+            color: #ffffffb3;
+            border: 3px solid #9a9797bf;
+            padding: 8px 13px;
+            border-radius: 5px;
+            font-size: 24px;
+        }
+        .responsive-navbar {
+            background: black;
+        }
+        .responsive-navbar ul li a {
+            text-decoration: none;
+            color: white;
+            padding-left: 19px;
+            line-height: 3;
+        }
+        /* image banner */
+        .image-contianer h2 {
+            font-size: 3rem;
+        }
+        .image-contianer {
+            width: 500px;
+        }
+        .image-contianer p {
+            font-size: 1.25rem;
+        }
+        .first-container-about-us {
+            display: block;
+        }
+        .box-image-about-us {
+            width: 100%;
+        }
+        .main-box-about-us {
+            padding: 0px;
+            width: 100%;
+        }
+        .box-image-about-us {
+            padding: 0;
+        }
+        .box-discount-detail {
+            width: 40%;
+        }
+        .box-discount-column {
+            width: 40%;
+        }
+        .box-discount-column {
+            width: 40%;
+        }
+        .box-discount-column h2 {
+            font-size: 2.0rem;
+        }
+        .box-discount-column a {
+            padding: 11px 26px;
+        }
+        .main-box-time-name-teacher {
+            width: 33%;
+        }
+        .box-number-counter {
+            width: 50%;
+        }
+        .container-trainer-image {
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .box-trainer-image {
+            width: 39%;
+            padding: 20px;
+        }
+        .trainer-name {
+            padding: 0;
+        }
+        .trainer-name h4 {
+            font-size: 15px;
+            padding: 4px;
+        }
+        .trainer-name p {
+            font-size: 13px;
+        }
+        .box-testimonial-clint-image {
+            width: 100%;
+        }
+        .main-box-testimonial-clint {
+            width: 100%;
+        }
+        .main-footer {
+            display: block;
+        }
+        .container-footer {
+            width: 50%;
+        }
+        .container-news-latter {
+            width: 50%;
+        }
+        .main-footer {
+            width: 50%;
+        }
+        .footer {
+            padding: 0 50px;
+        }
+        /* .news-latter {
+            padding: 5%;
+        } */
+        .news-latter button {
+            padding: 10px;
+        }
+        .news-latter input {
+            padding: 10px;
+        }
+        .footer-rights {
+            display: block;
+            padding: 29px 0px;
+        }
+        .box-rights-1 {
+            width: 100%;
+            padding: 0;
+            padding-bottom: 7px;
+        }
+        .box-rights-2 {
+            width: 100%;
+            background: none;
+            padding: 0;
+        }
+    }
